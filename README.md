@@ -1,2 +1,1 @@
-# SQL
-  STEPIK IN PROGRESS!!!
+
